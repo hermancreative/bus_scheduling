@@ -1,0 +1,23 @@
+{
+  "name": "bus_scheduling",
+  "version": "1.0.0",
+  "description": "Rest API Penjadwalan Bus Menggunakan Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hermancreative/bus_scheduling.git"
+  },
+  "author": "Herman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hermancreative/bus_scheduling/issues"
+  },
+  "homepage": "https://github.com/hermancreative/bus_scheduling#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.3.3"
+  }
+}
